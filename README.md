@@ -1,3 +1,3 @@
 # my-first-github-repository-
-For the Oreilly GitHub class. One more edit at Github.
 
+This line was modified manually during conflict resolution.
